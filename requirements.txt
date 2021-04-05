@@ -17,7 +17,7 @@ decorator==4.4.2          # via ipython
 defusedxml==0.7.0         # via nbconvert
 entrypoints==0.3          # via nbconvert
 future==0.18.2            # via uncertainties
-h5py==2.2.0               # via -r requirements.in
+h5py==3.2.1               # via -r requirements.in
 importlib-metadata==3.7.0  # via jsonschema
 ipykernel==5.5.0          # via ipympl, ipywidgets, notebook
 ipympl==0.6.3             # via -r requirements.in
